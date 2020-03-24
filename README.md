@@ -8,3 +8,7 @@ Platform genre game created with Phaser library - collect the coins, find the ke
 - JavaScript
 - Phaser
 - Webpack
+
+## Deployment
+
+http://colorful-flock.surge.sh/
